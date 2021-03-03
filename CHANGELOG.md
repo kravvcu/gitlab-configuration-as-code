@@ -5,6 +5,8 @@ fixes and other changes of GitLab Configuration as Code.
 
 ## [Unreleased]
 
+## [0.6.1] - 2021-03-03
+
 ## [0.6.1] - 2021-01-22
 
 ### Fixed
@@ -68,7 +70,9 @@ fixes and other changes of GitLab Configuration as Code.
 
 -   Initial release with support for application settings and license
 
-[Unreleased]: https://github.com/Roche/gitlab-configuration-as-code/compare/0.6.1...HEAD
+[Unreleased]: https://github.com/kravvcu/gitlab-configuration-as-code/compare/0.6.1...HEAD
+
+[0.6.1]: https://github.com/kravvcu/gitlab-configuration-as-code/compare/0.6.1...0.6.1
 
 [0.6.1]: https://github.com/Roche/gitlab-configuration-as-code/compare/0.6.0...0.6.1
 
